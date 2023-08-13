@@ -28,7 +28,7 @@ const Index = () => {
           {
             title: "Contact Me",
             subtitle: "WhatsApp",
-            link: "https://wa.me/919497851381",
+            link: "https://wa.me/919146987601",
             // icon: <StaticImage alt="" src="../images/hero/2-icon.png" />,
             image: <StaticImage alt="" src="../images/hero/2.png" />,
           },
